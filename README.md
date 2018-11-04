@@ -51,7 +51,7 @@ You must fill some informations on `_config.yml` to customize your site.
 ```
 name: Egor Ivkov
 bio: Innopolis University student. Game Developer.
-picture: 'assets/images/profile.png'
+picture: 'assets/images/profile.jpg'
 ...
 
 and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
