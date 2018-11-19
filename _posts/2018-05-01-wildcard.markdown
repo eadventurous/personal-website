@@ -1,0 +1,33 @@
+---
+title: "Wildcard"
+layout: post
+date: 2018-05-01 22:10
+tag: online card game
+image: /assets/images/wildcard/logo.jpg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Multiplayer western standoff. Shoot or die! It's all about your reaction. Challenge your friend in a death match. You will be given four cards each round choose the best of them and hope your enemy did not managed to choose any. Good luck head hunter, trust your wild card!"
+category: project
+author: egorivkov
+externalLink: false
+---
+
+Description
+==============
+Multiplayer western standoff. Shoot or die! It's all about your reaction. Challenge your friend in a death match. You will be given four cards each round choose the best of them and hope your enemy did not managed to choose any. Good luck head hunter, trust your wild card!
+
+It was initially developed for the _Kontur Jam_. Then we continued working on it and brought the game to the _DevGamm Moscow 2018_. Right now it is still in development.
+
+**My role:** gameplay/server programmer
+
+**Engine:** Unity
+
+**Trailer:** <https://www.youtube.com/watch?v=MMTO69Azj3k&t=6s>
+
+**Github:** <https://github.com/igd-club/WildCard>
+
+
+Screenshots
+==============
+![Screenshot](/assets/images/wildcard/gameplay1.jpg) ![Screenshot](/assets/images/wildcard/gameplay2.jpg) ![Screenshot](/assets/images/wildcard/gameplay3.jpg)
