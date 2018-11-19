@@ -1,0 +1,57 @@
+---
+title: "On Quest"
+layout: post
+date: 2018-10-28 22:10
+tag: 2d, runner
+image: /assets/images/onquest/logo.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Side-scrolling runner set in the medieval fantasy world. It was made for the procjam with an idea of procedurally generating enemies on the line."
+category: project
+author: egorivkov
+externalLink: false
+---
+
+Description
+==============
+**Side-scrolling runner** set in the **medieval fantasy** world. It was made for the **procjam** with an idea of procedurally generating enemies on the line.
+
+Currently the game doesn't have a tutorial. So here is the short guide of what you should do.
+
+Your goal is to run as far as you can.
+1. Press "Enter" to start the game
+2. You should not let enemies stop you
+3. In order to dodge their attacks you have to execute the right action:
+    1. For skeleton - slash him by pressing "A"
+    2. For ogre - defend from him by pressing "D"
+    3. For hound - jump over it by pressing "W"
+    4. For oculothorax (the giant floating eye) - avoid him by pressing "S"
+
+If you run into an enemy doing the wrong action, then the game will restart, which basically means "you died".
+
+**As it's only a prototype beware:**
+
+1. A lot of animations are missing
+2. Game is not balanced
+3. No UI
+
+**Future work:**
+
+1. Improve enemy placement with Genetic Algorithm applying the standard difficulty curve
+2. Add all the animations
+3. Add UI
+4. Improve hitboxes
+
+**My role:** gameplay programmer
+
+**Engine:** Unity
+
+**ITCH.IO:** <https://eadventurous.itch.io/onquest>
+
+**Github:** <https://github.com/eadventurous/on-quest>
+
+
+Screenshots
+==============
+![Screenshot](/assets/images/onquest/gameplay2.png) ![Screenshot](/assets/images/onquest/gameplay1.png) ![Screenshot](/assets/images/onquest/gameplay3.png)
