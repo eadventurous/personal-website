@@ -1,0 +1,33 @@
+---
+title: "Parkool"
+layout: post
+date: 2017-05-01 22:10
+tag: platformer
+image: /assets/images/parkool/logo.jpg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Game prototype for a 2D side-scrolling platformer about parkour, where you perform various acrobatic elemtents and get points for it."
+category: project
+author: egorivkov
+externalLink: false
+---
+
+Description
+==============
+Game prototype for a 2D side-scrolling platformer about parkour, where you perform various acrobatic elemtents and get points for it.
+
+It was developed as a hobby project by a team of fellow unversity students.
+
+**My role:** gameplay programmer
+
+**Engine:** Unity
+
+**Trailer:** <https://www.youtube.com/watch?v=z4MZ0-m3sfQ>
+
+**Github:** <https://github.com/eadventurous/parkour-is-cool>
+
+
+Screenshots
+==============
+![Screenshot](/assets/images/parkool/gameplay2.jpg) ![Screenshot](/assets/images/parkool/gameplay1.jpg) ![Screenshot](/assets/images/parkool/gameplay3.jpg)
