@@ -1,0 +1,67 @@
+---
+title: "Project STELS"
+layout: post
+date: 2018-11-17 22:10
+tag: MR, location-based
+image: /assets/images/parkool/logo.jpg
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "A mixed reality game that puts you in shoes
+of an elite soldier / agent. As a part of your training you will
+compete against other players in “Battle Royal” mode. But the
+catch is that the play area is the streets of your city. Just
+launch our app and the game begins!"
+category: project
+author: egorivkov
+externalLink: false
+---
+
+Description
+==============
+
+We introduce a mixed reality game that puts you in shoes of an elite soldier / agent. As a part of your training you will compete against other players in “Battle Royal” mode. But the catch is that the play area is the streets of your city. Just launch our app and the game begins!
+
+Navigation
+----------
+As you wonder the streets of
+the city with our app running,
+you will get notifications of the
+encounters happenning
+nearby.
+
+If you decide to join the encounter, you will get directions
+on how to get to the place
+where its happening.
+When you are there wait for
+other players to gather and
+the game will start.
+
+Gameplay
+--------
+In the progress of the game
+your goal will be to find and
+neutrazlie all other players.
+You will get approximate
+player locations and their up
+to date photos. But you won’t
+know which location corresponds to which player. So you will have to carefully approach the target. Select them in an app and press neutralize when you are in 5 meters or closer to them.
+
+Development
+-----
+
+Right now the application is implemented only for Android platform and its fea tures are limited. Our future development plans include UI improvements in the
+gameplay section, user profile creation, ranking and matchmaking systems.
+
+The game was developed by Innopolis University students as a part of HCI course.
+
+**My role:** gameplay programmer
+
+**Engine:** Unity
+
+**Github:** <https://github.com/eadventurous/stels-front>
+
+
+Screenshots
+==============
+![Screenshot](/assets/images/STELS/gameplay1.png) ![Screenshot](/assets/images/STELS/gameplay2.png)
